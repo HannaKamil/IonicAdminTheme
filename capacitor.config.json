@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "vue-light-bootstrap-dashboard",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
